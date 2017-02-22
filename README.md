@@ -11,7 +11,8 @@ Based on Google's Material Design Sticker Sheets and guidelines. We're constantl
 
 # How to use it?
 1. You should install Roboto since it's the main Android font. 
-2. Download the Axure library file: [UXTOOLTIME Android Material Design for Axure](https://github.com/iamkeeler/UXTOOLTIMEAndroid/raw/master/UXTT-Android-Material-Design-V01.rplib "Just download it already ;)")
+2. Download the Axure library file: 
+	- [UXTOOLTIME Android Material Design for Axure](https://github.com/iamkeeler/UXTOOLTIME/raw/master/UXTT-Android-Material-Design-V01.rplib "Just download it already ;)")
 3. Open Axure, click the three bars icon and choose "Load Library". Find the library file to Load it.
 4. Profit!!!
 
@@ -22,4 +23,4 @@ Based on Google's Material Design Sticker Sheets and guidelines. We're constantl
 
 ---
 
-# [DOWNLOAD ME ALREADY!](https://github.com/iamkeeler/UXTOOLTIMEAndroid/raw/master/UXTT-Android-Material-Design-V01.rplib "Just download it already ;)")
+# [DOWNLOAD ANDROID](https://github.com/iamkeeler/UXTOOLTIME/raw/master/UXTT-Android-Material-Design-V01.rplib "Just download it already ;)") or 
