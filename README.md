@@ -15,6 +15,11 @@ Based on Google's Material Design Sticker Sheets and guidelines. We're constantl
 3. Open Axure, click the three bars icon and choose "Load Library". Find the library file to Load it.
 4. Profit!!!
 
+# Who We Are
+1. Ryan Huettl
+2. Monika Perkerwicz
+3. Gary Keeler
+
 ---
 
 # [DOWNLOAD ME ALREADY!](https://github.com/iamkeeler/UXTOOLTIMEAndroid/raw/master/UXTT-Android-Material-Design-V01.rplib "Just download it already ;)")
