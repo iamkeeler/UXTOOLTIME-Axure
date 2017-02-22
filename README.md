@@ -1,5 +1,5 @@
-# UXTOOLTIME
-The best Android Material Design Axure Widget Library.
+![](https://raw.githubusercontent.com/iamkeeler/UXTOOLTIME/master/UXTOOLTIMELOGO.png)
+
 
 # Change Log
 - 2/22/17
@@ -7,8 +7,12 @@ The best Android Material Design Axure Widget Library.
 - 2/22/17 
 	+ Initial Commit
 
+<br>
+
 # Description
 Hello There! We got tired of not having good axure widgets to design apps with. There are tons of quality PSDs and Sketch resources out there but just a lack of free axure resources. So we made our own, and guess what? We like to share.
+
+<br>
 
 # How to use it?
 1. You should install Roboto since it's the main Android font or Helvetica for iOS. 
@@ -18,10 +22,15 @@ Hello There! We got tired of not having good axure widgets to design apps with. 
 3. Open Axure, click the three bars icon and choose "Load Library". Find the library file to Load it.
 4. Profit!!!
 
+<br>
+
 # Who We Are
 1. Ryan Huettl
 2. Monika Perkerwicz
+3. Chris Ernt
 3. Gary Keeler
+
+<br>
 
 ---
 
