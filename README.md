@@ -10,7 +10,11 @@ Hello There! We got tired of not having good axure widgets to design apps with. 
 Based on Google's Material Design Sticker Sheets and guidelines. We're constantly updating and changing the library so keep your eyes open. Cheers and enjoy!
 
 # How to use it?
-- You should install Roboto since it's the main Android font. 
-- Download the Axure library file: [UXTOOLTIME Android Material Design for Axure](https://github.com/iamkeeler/UXTOOLTIMEAndroid/raw/master/UXTT-Android-Material-Design-V01.rplib "Just download it already ;)")
-- Open Axure, click the three bars icon and choose "Load Library". Find the library file to Load it.
-- Profit!!!
+1. You should install Roboto since it's the main Android font. 
+2. Download the Axure library file: [UXTOOLTIME Android Material Design for Axure](https://github.com/iamkeeler/UXTOOLTIMEAndroid/raw/master/UXTT-Android-Material-Design-V01.rplib "Just download it already ;)")
+3. Open Axure, click the three bars icon and choose "Load Library". Find the library file to Load it.
+4. Profit!!!
+
+---
+
+# [DOWNLOAD ME ALREADY!](https://github.com/iamkeeler/UXTOOLTIMEAndroid/raw/master/UXTT-Android-Material-Design-V01.rplib "Just download it already ;)")
