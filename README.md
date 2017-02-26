@@ -2,6 +2,11 @@
 
 
 # Change Log
+- 2/25/17
+    + Added iOS10 Alpha (*very early alpha*)
+        * Status Bars
+        * Segment Controls
+        * Search Bars
 - 2/22/17
 	+ Added iOS to repo and readme
 - 2/22/17 
@@ -22,13 +27,15 @@ Hello There! We got tired of not having good axure widgets to design apps with. 
 3. Open Axure, click the three bars icon and choose "Load Library". Find the library file to Load it.
 4. Profit!!!
 
+*Alpha Versions of the libraries are available but either have missing controls or spotty functionality. Download and use at your own risk!*
+
 <br>
 
 # Who We Are
 1. Ryan Huettl
 2. Monika Perkerwicz
 3. Chris Ernt
-3. Gary Keeler
+4. Gary Keeler
 
 <br>
 
