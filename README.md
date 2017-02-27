@@ -2,6 +2,9 @@
 
 
 # Change Log
+- 2/26/17
+    + iOS10
+        + Started Navigation Bars
 - 2/25/17
     + Added iOS10 Alpha (*very early alpha*)
         * Status Bars
