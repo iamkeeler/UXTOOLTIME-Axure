@@ -1,19 +1,19 @@
 ![](https://raw.githubusercontent.com/iamkeeler/UXTOOLTIME/master/UXTOOLTIMELOGO.png)
 
 
-# Change Log
-- 2/26/17
+# Change Log (last three updates)
+- 3.7.17
+    + iOS10
+        * Navigation Bars Complete
+        * 2 Tab option added
+- 2.26.17
     + iOS10
         + Started Navigation Bars
-- 2/25/17
+- 2.25.17
     + Added iOS10 Alpha (*very early alpha*)
         * Status Bars
         * Segment Controls
         * Search Bars
-- 2/22/17
-	+ Added iOS to repo and readme
-- 2/22/17 
-	+ Initial Commit
 
 <br>
 
