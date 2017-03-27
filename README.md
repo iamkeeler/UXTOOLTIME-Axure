@@ -2,13 +2,17 @@
 
 
 # Change Log (last three updates)
+- 3.27.17
+    + iOS10 Alpha
+        * Added Sliders
+        * Started on Table Cells
 - 3.7.17
-    + iOS10
+    + iOS10 Alpha
         * Navigation Bars Complete
         * 2 Tab option added
 - 2.26.17
-    + iOS10
-        + Started Navigation Bars
+    + iOS10 Alpha
+        * Started Navigation Bars
 - 2.25.17
     + Added iOS10 Alpha (*very early alpha*)
         * Status Bars
