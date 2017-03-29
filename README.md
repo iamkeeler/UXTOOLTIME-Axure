@@ -2,6 +2,12 @@
 
 
 # Change Log (last three updates)
+-  3.29.17
+    + iOS10 Alpha
+        * Finished Table Cells
+        * Added Section Header
+        * Added Editing Menus
+
 - 3.27.17
     + iOS10 Alpha
         * Added Sliders
@@ -27,12 +33,12 @@ Hello There! We got tired of not having good axure widgets to design apps with. 
 <br>
 
 # How to use it?
-1. You should install Roboto since it's the main Android font or Helvetica for iOS. 
+1. You should install [Roboto for Android](https://material.io/guidelines/resources/roboto-noto-fonts.html) and [San Francisco for iOS.](https://developer.apple.com/fonts/) 
 2. Download the Axure library file: 
 	- [UXTOOLTIME Android Material Design for Axure](https://github.com/iamkeeler/UXTOOLTIME/raw/master/UXTT-Android-Material-Design-V01.rplib "Just download it already ;)")
 	- [UXTOOLTIME iOS 8 for Axure](https://github.com/iamkeeler/UXTOOLTIME/raw/master/UXTT-iOS8-V1-1.rplib "Just download it already ;)")
-3. Open Axure, click the three bars icon and choose "Load Library". Find the library file to Load it.
-4. Profit!!!
+3. Open Axure, click the three bars icon and choose "Load Library". Find the library file you downloaded to load it.
+4. Make magic happen!
 
 *Alpha Versions of the libraries are available but either have missing controls or spotty functionality. Download and use at your own risk!*
 
