@@ -31,6 +31,10 @@
 Hello There! We got tired of not having good axure widgets to design apps with. There are tons of quality PSDs and Sketch resources out there but just a lack of free axure resources. So we made our own, and guess what? We like to share.
 
 <br>
+# Examples
+- [iOS 10 Alpha Example Page](http://yqkq80.axshare.com/ios-10.html)
+
+<br>
 
 # How to use it?
 1. You should install [Roboto for Android](https://material.io/guidelines/resources/roboto-noto-fonts.html) and [San Francisco for iOS.](https://developer.apple.com/fonts/) 
