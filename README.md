@@ -2,6 +2,11 @@
 
 
 # Change Log (last three updates)
+
+-  5.23.17
+    + Material Design Android
+        * Updated Tabs
+
 -  3.29.17
     + iOS10 Alpha
         * Finished Table Cells
@@ -12,18 +17,7 @@
     + iOS10 Alpha
         * Added Sliders
         * Started on Table Cells
-- 3.7.17
-    + iOS10 Alpha
-        * Navigation Bars Complete
-        * 2 Tab option added
-- 2.26.17
-    + iOS10 Alpha
-        * Started Navigation Bars
-- 2.25.17
-    + Added iOS10 Alpha (*very early alpha*)
-        * Status Bars
-        * Segment Controls
-        * Search Bars
+
 
 <br>
 
