@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="197px" viewBox="0 0 134 197" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>F</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="12.2277098%" y2="43.4541292%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.65" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="11.3531298%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.75" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-19.000000, -13.000000)">
+            <g id="F" transform="translate(19.000000, 13.000000)">
+                <polygon id="Combined-Shape-Copy" fill="url(#linearGradient-1)" points="66.6520493 65.2857143 133.315217 65.2857143 133.315217 2.84217094e-14 1.21195652 2.84217094e-14 1.21195652 0.599001924 66.6520493 65.2857143"></polygon>
+                <polygon id="Combined-Shape-Copy-2" fill="url(#linearGradient-2)" points="66.6631681 65.2857143 1.98951966e-13 65.2857143 1.98951966e-13 130.571429 132.103261 130.571429 132.103261 129.972427 66.6631681 65.2857143"></polygon>
+                <polygon id="Rectangle-32-Copy-2" fill-opacity="0.95" fill="#FFFFFF" points="-5.68434189e-14 130.571429 66.0516304 130.571429 66.0516304 196.46164"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
